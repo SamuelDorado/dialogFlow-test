@@ -1,25 +1,24 @@
 {
-  "id": "c78b8fb2-9133-447b-80fb-9acaec39cba8",
-  "name": "support.contacts",
+  "id": "50e9ada3-297b-4ef5-88b1-7ec83daa7e2f",
+  "name": "support.clothes.to.use",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "support.contacts",
       "affectedContexts": [
         {
           "name": "support-contacts",
           "parameters": {},
-          "lifespan": 6
+          "lifespan": 5
         }
       ],
       "parameters": [],
       "messages": [
         {
           "type": 0,
-          "lang": "",
-          "speech": []
+          "lang": "es",
+          "speech": "No te preocupes! Hoy puedes llevar chanclas y bañador"
         }
       ],
       "defaultResponsePlatforms": {},

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "7004864f-7103-4b70-a648-a6e4bb8928b6",
+    "data": [
+      {
+        "text": "Deberia llevar chubasquero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "560f977a-e475-4212-8842-aae533b21906",
+    "data": [
+      {
+        "text": "Que me pongo ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "089e86be-88fc-4b79-81ad-7fc8f4a74630",
+    "data": [
+      {
+        "text": "¿Que ropa deberia usar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
