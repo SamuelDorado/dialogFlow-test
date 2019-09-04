@@ -1,0 +1,301 @@
+[
+  {
+    "id": "a1a0b2c3-b491-44f1-a522-39079190c825",
+    "data": [
+      {
+        "text": "tienes cuenta en ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9cc36c9-a293-4c6e-ad0e-9bb75518fd77",
+    "data": [
+      {
+        "text": "tienes cuenta en ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b5726c7-b04d-421e-ab48-361ebafaa023",
+    "data": [
+      {
+        "text": "tienes ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " red social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "825593ef-2669-4f16-a5b9-93caee4962a4",
+    "data": [
+      {
+        "text": "tienes ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8df2b451-1b2a-4213-9e82-0191272c4c22",
+    "data": [
+      {
+        "text": "quisiera acceder a tu página en ",
+        "userDefined": false
+      },
+      {
+        "text": "Google",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64b085e2-74e5-4f04-bb2c-01de7dfc60d4",
+    "data": [
+      {
+        "text": "estás en ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b75ede6f-ca69-4c8a-a777-e31474891263",
+    "data": [
+      {
+        "text": "tu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " página en ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f34ad5a-2b3b-432b-b0f3-3c9336044289",
+    "data": [
+      {
+        "text": "cómo te sigo por ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4b136be4-96ad-4612-823b-7bce91b788e8",
+    "data": [
+      {
+        "text": "quiero seguirte en ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55420643-3dcf-4597-a50b-afda3de74f1f",
+    "data": [
+      {
+        "text": "me das tu ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d8d252a-592b-43d1-9c27-c872fb2e619a",
+    "data": [
+      {
+        "text": "tienes ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cuenta en ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa7db456-62a5-405d-b296-053a476bea43",
+    "data": [
+      {
+        "text": "dame tu ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0483e262-f388-4871-91f1-76e6415ce764",
+    "data": [
+      {
+        "text": "cuál es tu página de ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f77c342-9e20-462d-807c-052c2d09546e",
+    "data": [
+      {
+        "text": "quisiera ver tu página en ",
+        "userDefined": false
+      },
+      {
+        "text": "Google",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dacd24d-71d5-4275-bf12-ab0770bc0872",
+    "data": [
+      {
+        "text": "estás en redes sociales",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec91d055-b1b2-4c60-a091-8b29181d31c3",
+    "data": [
+      {
+        "text": "cómo te encuentro en ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "media",
+        "meta": "@media",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

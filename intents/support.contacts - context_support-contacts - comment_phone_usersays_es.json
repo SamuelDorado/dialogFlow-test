@@ -1,0 +1,156 @@
+[
+  {
+    "id": "a9c7123d-bdf5-4ac3-944b-8119ba8bb56d",
+    "data": [
+      {
+        "text": "puedo contactarles por teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "383e9712-dc7f-48de-8ff9-9557c9ea2e87",
+    "data": [
+      {
+        "text": "y cuál es su número de teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "222eaa49-40bf-4f09-8dc1-2f109cdb7e2a",
+    "data": [
+      {
+        "text": "les puedo llamar por teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfe24ae9-7b78-4575-8455-c5140cb20bdd",
+    "data": [
+      {
+        "text": "dame su número de teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a204318-ac7c-49af-8017-66b29e071ba0",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "el",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "número",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " de teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a6a59e4-8b74-40f9-b9b6-fc1b6ee20beb",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "el",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc532ec1-5f79-44d0-b70f-7628f8f0355d",
+    "data": [
+      {
+        "text": "quiero",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " contactarles ",
+        "userDefined": false
+      },
+      {
+        "text": "por",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d40a6e29-a3a9-4d2f-861d-16552dcc916b",
+    "data": [
+      {
+        "text": "como puedo llamarles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58103edf-6374-4c1b-8426-54ad8fc75e3c",
+    "data": [
+      {
+        "text": "quiero",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " llamarles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

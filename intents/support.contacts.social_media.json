@@ -1,0 +1,41 @@
+{
+  "id": "ac130fbb-8eef-45f5-8b4d-e25860b32045",
+  "name": "support.contacts.social_media",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.contacts.social_media",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3a7f65ee-5d55-4eaf-aaaf-08d8fb948c19",
+          "required": false,
+          "dataType": "@media",
+          "name": "media",
+          "value": "$media",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

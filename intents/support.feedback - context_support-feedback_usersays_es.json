@@ -1,0 +1,101 @@
+[
+  {
+    "id": "876d3e86-1765-4ac7-a6c7-5d380d0e112b",
+    "data": [
+      {
+        "text": "además ",
+        "userDefined": false
+      },
+      {
+        "text": "hay que mejorar unas funciones",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "057eb919-7e63-4aa3-b7fe-d4ae09547c70",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "otra",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " cosa que quería comentar es que ",
+        "userDefined": false
+      },
+      {
+        "text": "funciona muy bien",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "585d3d63-9172-4140-b622-4fc3361c7743",
+    "data": [
+      {
+        "text": "además dígales que ",
+        "userDefined": false
+      },
+      {
+        "text": "el avatar me gusta mucho",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e104e04-d45a-49cb-ace1-6f3ae8ec9139",
+    "data": [
+      {
+        "text": "y que ",
+        "userDefined": false
+      },
+      {
+        "text": "quiero la versión premium",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9414a958-b5c9-4863-9ab8-93c56e4b0c5b",
+    "data": [
+      {
+        "text": "y que ",
+        "userDefined": false
+      },
+      {
+        "text": "tengo un problema",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

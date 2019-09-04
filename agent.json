@@ -1,0 +1,52 @@
+{
+  "description": "Use this agent in your app so it can answer support related inquiries and provided a channel for users to contact your developers or support representatives.",
+  "language": "es",
+  "shortDescription": "Support and CRM related conversations",
+  "examples": "User: ¿Quién te ha creado?\nUser: Dile a tus desarrolladores que me encantas.\nUser: Informa de un error: no funciona.\nUser: ¿Cuál es tu página de Facebook?\nUser: Quiero participar en el grupo de prueba beta.\nUser: Busca el número de teléfono de tus desarrolladores.\nUser: ¿Cuál es el correo electrónico de tus desarrolladores?\nUser: ¿Tienes cuenta de Instagram?",
+  "linkToDocs": "",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V1",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

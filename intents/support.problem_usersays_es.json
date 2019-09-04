@@ -1,0 +1,260 @@
+[
+  {
+    "id": "1947bd69-c918-4ae9-97b1-d0cb85259912",
+    "data": [
+      {
+        "text": "hay un error ",
+        "userDefined": false
+      },
+      {
+        "text": "no puedo descargar documentos",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a65fb054-5cdf-4d0e-ac85-f08e266c0731",
+    "data": [
+      {
+        "text": "tengo un problema ",
+        "userDefined": false
+      },
+      {
+        "text": "la activación no funciona",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c45e2197-64cc-485d-96a9-a52c742d0ec1",
+    "data": [
+      {
+        "text": "informe de error ",
+        "userDefined": false
+      },
+      {
+        "text": "no se descarga la documentación",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e75b3ab-5aeb-43bc-a183-6f74a83dc40c",
+    "data": [
+      {
+        "text": "informar de un problema ",
+        "userDefined": false
+      },
+      {
+        "text": "no funciona el agente",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f95b6ef-676d-4ed6-914e-ee32b40707e4",
+    "data": [
+      {
+        "text": "informar del problema a los programadores ",
+        "userDefined": false
+      },
+      {
+        "text": "no me funciona nada",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7597a81e-1d3c-4f6a-9b85-a0d324f8fdb5",
+    "data": [
+      {
+        "text": "encontré un error cómo lo puedo enviar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8e1eb5f-91eb-4751-ac50-aa1575b42757",
+    "data": [
+      {
+        "text": "informar de un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49e2ced6-6057-4a8b-905f-6fe95a283438",
+    "data": [
+      {
+        "text": "no está funcionando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccf96c49-154b-4a5e-99b3-212fd519abda",
+    "data": [
+      {
+        "text": "algo está mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27b05c83-fc5f-48ab-89da-0fd57367e789",
+    "data": [
+      {
+        "text": "alguna cosa está mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "375de94d-0b35-463b-bbd2-84618a5e73d0",
+    "data": [
+      {
+        "text": "quiero reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f44e075-e7a4-4b56-91f5-2203a6d9cba6",
+    "data": [
+      {
+        "text": "hay un problema que reportar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "881d3caa-494a-4094-8748-942a357a2c57",
+    "data": [
+      {
+        "text": "necesito reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8be358f-7d90-452d-9dbf-ac2056388a32",
+    "data": [
+      {
+        "text": "quisiera reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfe11d98-abd0-46f3-b5ba-e97815cfd68c",
+    "data": [
+      {
+        "text": "esto no está funcionando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a103e476-a021-467e-848e-35154f30434a",
+    "data": [
+      {
+        "text": "vamos a reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d018d25f-dcbd-4e35-a9b6-5ed272e1e254",
+    "data": [
+      {
+        "text": "reportaremos un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dca3607-c930-41e5-bd38-2fa066a852d8",
+    "data": [
+      {
+        "text": "debo reportar un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e90cd69-6e55-4408-bb6e-d4beac7a0592",
+    "data": [
+      {
+        "text": "tengo un problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

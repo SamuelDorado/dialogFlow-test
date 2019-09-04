@@ -1,0 +1,200 @@
+[
+  {
+    "id": "880428c4-ca16-4ee6-a555-b0aa3189547e",
+    "data": [
+      {
+        "text": "tienes ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "062e6781-7c54-46ae-afdb-e57a7fabe7aa",
+    "data": [
+      {
+        "text": "tu página web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7168438e-5858-4e03-b449-2d3414f1232c",
+    "data": [
+      {
+        "text": "tu sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04d6bd99-163d-4ff2-8af7-322023c7790e",
+    "data": [
+      {
+        "text": "tu página",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c79c97f1-b8b5-4ecc-9379-4c31ea5342ac",
+    "data": [
+      {
+        "text": "dame tu página web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0efad79-e79c-4d20-abc1-c81b449a0e15",
+    "data": [
+      {
+        "text": "abre tu página web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc47b8e3-0c4e-46d8-963b-a2ac32e0c868",
+    "data": [
+      {
+        "text": "tu dirección web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d51e647a-6990-447c-9dcf-d74ecf24eba5",
+    "data": [
+      {
+        "text": "quiero acceder a tu página web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc07be54-2533-4a99-a50b-e1b19c9e592d",
+    "data": [
+      {
+        "text": "podrías darme tu dirección web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc1cdb2d-2f23-42c7-913c-ecf32a4456e5",
+    "data": [
+      {
+        "text": "cómo ubico tu sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11ffd493-fd28-4b48-85b8-822813f8f468",
+    "data": [
+      {
+        "text": "cómo encuentro tu sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bb54aba-ef04-429b-a061-7ad3bcc81d02",
+    "data": [
+      {
+        "text": "me vas a dar tu sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b071847-36f7-4a22-b790-2da9494bedfc",
+    "data": [
+      {
+        "text": "dime tu dirección web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e754f5d-f81a-4052-ab7c-e9bc2ec93cab",
+    "data": [
+      {
+        "text": "quisiera saber tu dirección web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2480c287-3786-4edc-9cd6-8bfca920ba35",
+    "data": [
+      {
+        "text": "cómo localizo tu sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

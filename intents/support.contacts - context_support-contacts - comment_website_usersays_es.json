@@ -1,0 +1,149 @@
+[
+  {
+    "id": "cb84a287-1fd9-422d-836c-392eaed4bf2a",
+    "data": [
+      {
+        "text": "abre su sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e208187-4f31-4495-9c32-12c4d5be7eb3",
+    "data": [
+      {
+        "text": "dime si tienen ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03ec67ba-6daf-4808-86d4-2707fc3a2951",
+    "data": [
+      {
+        "text": "y cuál es su ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e16803e-f149-4ae0-84a0-dca3eae79b56",
+    "data": [
+      {
+        "text": "quisiera acceder a su sitio web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78ba593e-1ad7-4ecc-853a-ff878b8d4d3a",
+    "data": [
+      {
+        "text": "tienen ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5eda8bc3-bba5-433a-8aaa-533fd08cba8a",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "página",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a862730a-9a5d-43db-9b55-cd8f5ff5e366",
+    "data": [
+      {
+        "text": "y ",
+        "userDefined": false
+      },
+      {
+        "text": "el",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sitio",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

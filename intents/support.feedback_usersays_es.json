@@ -1,0 +1,215 @@
+[
+  {
+    "id": "5a43ae2d-3c27-4a8d-9e36-07cc695050d0",
+    "data": [
+      {
+        "text": "di a tus desarrolladores que ",
+        "userDefined": false
+      },
+      {
+        "text": "me gusta mucho la aplicación",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f80ef487-56b9-4e15-a487-794a601f457e",
+    "data": [
+      {
+        "text": "me gustaría dejar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " comentario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0725a305-13c5-4364-a587-ea5f8674cb14",
+    "data": [
+      {
+        "text": "diles a tus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "me encantas",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f77fa19d-8990-4198-a9fc-b24a3fbc4a78",
+    "data": [
+      {
+        "text": "quiero enviar un comentario sobre ti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efaf205b-7215-432f-921e-6281fee07f4c",
+    "data": [
+      {
+        "text": "quisiera decirle a tus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "son geniales",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da5a3bd9-249a-42e7-9fb4-d1f395b6c491",
+    "data": [
+      {
+        "text": "que le digas a tus desarrolladores que ",
+        "userDefined": false
+      },
+      {
+        "text": "son maravillosos",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6346aca0-0546-4357-9ae1-0e5533f0ffde",
+    "data": [
+      {
+        "text": "podrías decirle a tus creadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "han hecho un buen trabajo",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d74db77d-cbb7-4bf8-a9c9-d8fa351643e0",
+    "data": [
+      {
+        "text": "envíale un mensaje a tus programadores diciéndoles que ",
+        "userDefined": false
+      },
+      {
+        "text": "les doy las gracias",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85ecccfc-1449-40ab-9ca4-bc6118706060",
+    "data": [
+      {
+        "text": "quisiera decirles a tus creadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "tengo un problema",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d210ec5-c42c-4cff-bc99-8d915c74e1c7",
+    "data": [
+      {
+        "text": "me apetece decirles a tus desarrolladores que ",
+        "userDefined": false
+      },
+      {
+        "text": "eres ideal",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1044112a-036c-4c19-9378-c3b9badc0046",
+    "data": [
+      {
+        "text": "a ver si les dices a tus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "encontré un error",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2671ae8-3be1-4ad5-90f9-82eefda2a753",
+    "data": [
+      {
+        "text": "me gustaría que les dijeras a tus programadores que ",
+        "userDefined": false
+      },
+      {
+        "text": "estoy contento con la aplicación",
+        "alias": "message",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
